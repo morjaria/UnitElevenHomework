@@ -84,4 +84,7 @@ Trained and compared two different ensemble classifiers to predict loan risk and
 Reference : Scikit:The best value is 1 and the worst value is 0. 
 
 ### AllFeatures
+
+The figure below shows all the features and their corresponding importance:
+
 ![All Features Ranked](Images/feature_ranking.jpg)
