@@ -10,13 +10,13 @@ The assignment was to build and evaluate several machine learning models to pred
 1. [Resampling](#Resampling)
 2. [Ensemble Learning](#Ensemble-Learning)
 
-## Files
+## Submission Files
 
 [Resampling  Notebook](Submission/credit_risk_resampling.ipynb)
 
 [Ensemble  Notebook](Submission/credit_risk_ensemble.ipynb)
 
-[Lending Club Loans Data](Resources/LoanStats_2019Q1.csv.zip)
+
 
 
 ### Resampling
